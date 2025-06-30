@@ -1,3 +1,11 @@
-.example-remote-style {
-  color: red;
+.example-remote-style-red {
+  color: #ffb3ba;
+}
+
+.example-remote-style-green {
+  color: #baffc9;
+}
+
+.example-remote-style-blue {
+  color: #bae1ff;
 }
